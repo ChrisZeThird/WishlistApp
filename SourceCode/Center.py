@@ -9,8 +9,11 @@ import tkinter
 
 def center(win):
     """
-    centers a tkinter window
-    :param win: the main window or Toplevel window to center
+    Input: 
+        win -> tkinter window
+    
+    Output: 
+        centers a tkinter window
     """
     win.update_idletasks()
     width = win.winfo_width()
