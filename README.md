@@ -9,6 +9,7 @@ Here is a quick look at the main menu:
 ![image](https://github.com/ChrisZeThird/WishlistApp/assets/86256324/1bd175fd-70dc-4976-8192-4e32d5aa1760)
 
 You first have to create a new wishlist:
+
 ![image](https://github.com/ChrisZeThird/WishlistApp/assets/86256324/90dfc890-c6aa-4a52-a154-72c3f19853a5)
 
 
